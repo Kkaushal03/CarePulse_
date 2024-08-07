@@ -29,10 +29,18 @@ This project was created using the following technologies.
 - [Twilio](https://www.twilio.com/en-us) - For sending sms.
 
 
+  
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-###  Deployment :
-Vercel is used  [https://care-pulse-n2s8.vercel.app/](URL)
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/kkaushal03s-projects/care-pulse-n2s8) from the creators of Next.js.
+
+
+
 
 
   ####  Screenshots:
@@ -68,15 +76,5 @@ Vercel is used  [https://care-pulse-n2s8.vercel.app/](URL)
 
 
 
-   
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/kkaushal03s-projects/care-pulse-n2s8) from the creators of Next.js.
-
-
+ 
 # CarePulse_
