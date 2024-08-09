@@ -12,8 +12,8 @@ A healthcare patient management application that allows patients to easily regis
   - **Appointment Confirmation**: Send confirmation notifications to patients via SMS
   - **Appointment Cancellation**:otify patients of appointment cancellations and reschedule options via SMS.
   - **Secure Login**: Authentication and authorization for patients, doctors, and administrators.
-  - ** File Upload Using Appwrite Storage**: Users can upload and store files securely within the app using Appwrite storage services.
-  -** Complete Responsiveness**: The application works seamlessly on all device types and screen sizes.
+  - **File Upload Using Appwrite Storage**: Users can upload and store files securely within the app using Appwrite storage services.
+  -**Complete Responsiveness**: The application works seamlessly on all device types and screen sizes.
 
 ###  Technologies used
 
@@ -44,7 +44,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 
   ####  Screenshots:
-![1](![image](https://github.com/user-attachments/assets/a2bc3ce5-27f5-456d-93fd-034c351888dd)
+![image](https://github.com/user-attachments/assets/a2bc3ce5-27f5-456d-93fd-034c351888dd)
 
 ![image](https://github.com/user-attachments/assets/871fe641-f9da-45fe-a33f-270eb9ff7947)
 
